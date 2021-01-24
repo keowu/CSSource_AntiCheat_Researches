@@ -61,3 +61,14 @@ float CPU_SPEED = m_Speed*(1.0 / 1.0e9);
 ```
 <h3 align="center">Resultado da analise do código(Não reconstruído totalmente pois muitos dados foram otimizados e dessa forma abstraídos):</h3>
 <p align="center">Projeto no mesmo repositório.</p>
+
+<h3 align="center">Banco de dados do IDA:</h3>
+<p align="center">O Banco da minha analise está no mesmo repositório, junto com a DLL original.</p>
+
+<img src="https://raw.githubusercontent.com/keowu/CSSourceResearchs/main/Pesquisa/tier0.dll/GetCPUInformation/Screenshots/IDA_1.PNG?token=AKC4ZNSROMZMSMX7OSA7LVDAC3KAQ" alt="Print do Disassembler">
+<img src="https://raw.githubusercontent.com/keowu/CSSourceResearchs/main/Pesquisa/tier0.dll/GetCPUInformation/Screenshots/IDA_2.PNG?token=AKC4ZNT7GUAEBZY6KSCNC6DAC3KB6" alt="Print do Meu Pseudocódigo">
+
+<h3 align="center">Veja o funcionamento e implementação do algoritmo no meu projeto de teste:</h3>
+<img src="https://raw.githubusercontent.com/keowu/CSSourceResearchs/main/Pesquisa/tier0.dll/GetCPUInformation/Screenshots/working%3DD.gif?token=AKC4ZNRWBSMBH5RIYHQ2WEDAC3KHO" alt="Algoritmo Implementado">
+
+<h4 align="center">Analise por João Ferreira(@Keowu) para suas pesquisas pessoais/estudos.</h4>
